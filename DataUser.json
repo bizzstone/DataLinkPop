@@ -1,1 +1,31 @@
-[{"Nama":"Bayu","User":"Mozilla/5.0 (Linux; Android 13; V2126 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.21 Mobile Safari/537.36","Folder":"Bayu"}]
+[
+    {
+        "Nama": "Titah",
+        "User": "Mozilla/5.0 (Linux; Android 13; V2126 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.21 Mobile Safari/537.36",
+        "Folder": "Bayu"
+    },    {
+        "Nama": "Shohi",
+        "User": "Mozilla/5.0 (Linux; Android 13; V2126 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.21 Mobile Safari/537.36",
+        "Folder": "Bayu"
+    },    {
+        "Nama": "X1",
+        "User": "Mozilla/5.0 (Linux; Android 13; V2126 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.21 Mobile Safari/537.36",
+        "Folder": "Bayu"
+    },    {
+        "Nama": "BayX2u",
+        "User": "Mozilla/5.0 (Linux; Android 13; V2126 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.21 Mobile Safari/537.36",
+        "Folder": "Bayu"
+    },    {
+        "Nama": "X3",
+        "User": "Mozilla/5.0 (Linux; Android 13; V2126 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.21 Mobile Safari/537.36",
+        "Folder": "Bayu"
+    },    {
+        "Nama": "Aan",
+        "User": "Mozilla/5.0 (Linux; Android 13; V2126 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.21 Mobile Safari/537.36",
+        "Folder": "Bayu"
+    },    {
+        "Nama": "Bayu",
+        "User": "Mozilla/5.0 (Linux; Android 13; V2126 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.21 Mobile Safari/537.36",
+        "Folder": "Bayu"
+    }
+]
