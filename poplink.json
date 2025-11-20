@@ -286,5 +286,41 @@
     "X3": false,
     "Aan": false,
     "Bayu": false
+  },
+  {
+    "Name": null,
+    "pID": 0,
+    "url": "https://t.ackinacki.com?startapp=eyJyZWZlcnJlciI6InRpdGFobGVsYW50b3oiLCJwb3BpdCI6ImUyZjVkYzAxLWQ3YjgtNDIwOC1hYTgzLTQxODU3NDBhYzEzYyJ9",
+    "Titah": true,
+    "Shohi": false,
+    "X1": false,
+    "X2": false,
+    "X3": false,
+    "Aan": false,
+    "Bayu": false
+  },
+  {
+    "Name": null,
+    "pID": 0,
+    "url": "https://t.ackinacki.com?startapp=eyJyZWZlcnJlciI6InF1YW50dW11bmljb3JuIiwicG9waXQiOiI2MDM2MzBkZS0zZTM1LTRjMTEtYmRiNS1lNWM4ZWQ3MjUwYzEifQ",
+    "Titah": true,
+    "Shohi": false,
+    "X1": false,
+    "X2": false,
+    "X3": false,
+    "Aan": false,
+    "Bayu": false
+  },
+  {
+    "Name": null,
+    "pID": 0,
+    "url": "https://t.ackinacki.com?startapp=eyJyZWZlcnJlciI6Imxhbnplc2Nocm90dCIsInBvcGl0IjoiYjMwZTFjNDMtZTNlNS00MjIyLTllNDUtMDQ0NTNjZDNkYjk0In0",
+    "Titah": true,
+    "Shohi": false,
+    "X1": false,
+    "X2": false,
+    "X3": false,
+    "Aan": false,
+    "Bayu": false
   }
 ]
